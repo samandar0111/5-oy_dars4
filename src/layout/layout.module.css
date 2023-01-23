@@ -1,0 +1,6 @@
+.block{
+  border:  solid red 1px;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
